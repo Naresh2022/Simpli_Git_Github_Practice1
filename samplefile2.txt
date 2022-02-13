@@ -1,0 +1,1 @@
+This is samplefile2 that created using Touch command and adding data using Cat command.
