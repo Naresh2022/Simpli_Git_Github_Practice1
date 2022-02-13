@@ -1,1 +1,1 @@
-#this is a sample file that created directly in Github repository.  
+This is a samplefile1 that crated in github and altered in Linux
